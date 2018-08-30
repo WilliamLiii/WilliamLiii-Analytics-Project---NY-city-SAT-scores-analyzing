@@ -9,3 +9,6 @@
     Demographics - Demographic information for each school
     School survey - Surveys of parents, teachers, and students at each school
 # Project objctives
+* check out SAT exam is unfair or not by comparing demographic factors such as race, income, and gender
+# Analysis process
+# see more in school.ipyne file
