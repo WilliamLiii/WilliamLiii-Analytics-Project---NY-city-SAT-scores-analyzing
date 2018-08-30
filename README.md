@@ -10,5 +10,5 @@
     School survey - Surveys of parents, teachers, and students at each school
 # Project objctives
 * check out SAT exam is unfair or not by comparing demographic factors such as race, income, and gender
-# Analysis process
+# Analysis process and conclutions
 * see more in school.ipynb file
